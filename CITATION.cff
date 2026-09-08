@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or reference materials from this repository, please cite it as below."
+
+title: "Human Oversight Research: Operational Human Oversight for Agentic and AI-Enabled Systems"
+
+authors:
+  - family-names: "Gao"
+    given-names: "Lei"
+
+version: "0.1.0"
+
+date-released: 2026-09-09
+
+url: "https://github.com/leigao-research/human-oversight-research"
+
+repository-code: "https://github.com/leigao-research/human-oversight-research"
+
+abstract: >-
+  A public research repository on Operational Human Oversight,
+  Agentic AI Governance, Responsible AI, Trustworthy AI, and
+  international AI standardization. The repository develops
+  operational structures for human intervention, escalation,
+  human authority, override, suspension, resumption,
+  auditability, traceability, and accountability in increasingly
+  autonomous and agentic AI systems.
+
+keywords:
+  - "AI Governance"
+  - "Human Oversight"
+  - "Operational Human Oversight"
+  - "Agentic AI"
+  - "Responsible AI"
+  - "Trustworthy AI"
+  - "International AI Standardization"
+  - "AI Accountability"
+  - "Smart Sustainable Cities"
