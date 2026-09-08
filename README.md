@@ -100,7 +100,21 @@ https://www.undigitalcooperation.org/organization/details?id=1830
 **Note:** Inclusion on the Portal does not constitute UN endorsement or certification.
 
 ---
+## Research Pages
 
+### Agentic AI
+[Theme #16 — Operational Human Oversight Integration for Agentic AI Trust Systems](./agentic-ai/theme-16-operational-human-oversight.md)
+
+### Smart Sustainable Cities
+[FGAI4SSC-I-015 — Human Oversight in AI-Enabled Smart Sustainable Cities](./smart-cities/FGAI4SSC-I-015-overview.md)
+
+### Public Contributions
+[UN Digital Cooperation Portal — Operational Human Oversight for Agentic AI](./public-contributions/un-digital-cooperation-portal.md)
+
+### Frameworks
+[Operational Human Oversight Framework v0.1](./frameworks/operational-human-oversight-framework-v0.1.md)
+
+---
 ## Emerging Research Structure
 
 The current research programme connects three levels:
