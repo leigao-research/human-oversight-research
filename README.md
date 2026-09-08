@@ -177,5 +177,4 @@ LinkedIn:
 https://www.linkedin.com/in/lei-gao-cybernetics
 
 GitHub:  
-https://github.com/leigao-research# human-oversight-research
-Public research hub on Operational Human Oversight, Agentic AI Governance, Responsible AI and international AI standardization.
+https://github.com/leigao-research
